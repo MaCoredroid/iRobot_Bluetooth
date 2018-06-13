@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Robot</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="BtnConnect">连接</string>
+    <string name="BtnDisconnect">断开</string>
+    <string name="MenuSettings">设置</string>
+    <string name="MenuQuit">退出</string>
+    <string name="MenuContact">交互</string>
+    <string name="MenuScan">扫描</string>
+    <string name="title_activity_controller">ControllerActivity</string>
+    <string name="MenuConnect">连接</string>
+    <string name="forward">Forward</string>
+    <string name="mode">Mode</string>
+    <string name="backward">Backward</string>
+</resources>

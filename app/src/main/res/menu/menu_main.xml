@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/main_menu_scan"
+        android:title="@string/MenuScan" />
+    <item
+        android:id="@+id/main_menu_contact"
+        android:title="@string/MenuContact" />
+    <item
+        android:id="@+id/main_menu_connect"
+        android:title="@string/MenuConnect" />
+    <item
+        android:id="@+id/main_menu_settings"
+        android:title="@string/MenuSettings" />
+    <item
+        android:id="@+id/main_menu_quit"
+        android:title="@string/MenuQuit" />
+
+</menu>
